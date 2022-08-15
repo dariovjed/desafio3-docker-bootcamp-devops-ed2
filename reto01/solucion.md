@@ -1,6 +1,6 @@
 # Solución Reto 01 - BootCamp DevOps ED2
 
-- Script Shell para crear el contenedor: [Aqui](reto.sh)
+- Script Shell para crear el contenedor: [Aqui](reto01.sh)
 - Pantallazo donde se vea la creación del contenedor y podamos comprobar que el contenedor está funcionando:
 ![Imagen 01 - reto 01](assets/images/01_reto01.png)
 - Pantallazo donde se vea el acceso al servidor web utilizando un navegador web (recuerda que tienes que acceder a la ip del ordenador donde tengas instalado docker)
