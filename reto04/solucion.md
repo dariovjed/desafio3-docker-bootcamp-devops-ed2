@@ -20,6 +20,7 @@ Tambien se debe modificar la ruta donde apache sirve los archivos:
 ```COPY content/ /usr/local/apache2/htdocs/```
 
 El Dockerfile quedaria:
+
 ![Imagen 02 - reto 04](assets/images/02.png)
 
 Comando para crear la imagen llamada ```simple-apache:new```:
