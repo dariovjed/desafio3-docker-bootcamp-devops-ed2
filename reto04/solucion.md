@@ -12,7 +12,8 @@ En base al siguiente Dockerfile de```simple-nginx```.
 cambiar los valores para que se use una imagen de apache y usa docker build para crear la imagen llamada ```simple-apache:new``
 
 ### Solucion:
-Se debe cambiar la imagen a usar que es ```httpd:alpine``` 
+Se debe cambiar la imagen a usar que es ```httpd:alpine```
+
 ```FROM httpd:alpine```
 
 Tambien se debe modificar la ruta donde apache sirve los archivos:
