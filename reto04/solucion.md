@@ -40,7 +40,7 @@ Captura de pantalla:
 ![Imagen 03 - reto 04](assets/images/03.png)
 
 ### Script Shell que ejecuta ambos ejercicios:
-[Ver Script](reto04.sh)
+[Ver Script](reto04.sh){:target="_blank"}
 
 Captura de pantalla al ejecutar el script:
 ![Imagen 04 - reto 04](assets/images/04.png)
