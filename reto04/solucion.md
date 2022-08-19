@@ -4,7 +4,9 @@
 Crea una imagen con un servidor web Apache y el mismo contenido que en la carpeta content
 
 content
+
 ├── index.html
+
 └── site.css
 
 En base al siguiente Dockerfile de```simple-nginx```.
@@ -40,7 +42,7 @@ Captura de pantalla:
 ![Imagen 03 - reto 04](assets/images/03.png)
 
 ### Script Shell que ejecuta ambos ejercicios:
-[Ver Script](reto04.sh){:target="_blank"}
+[Ver Script](reto04.sh)
 
 Captura de pantalla al ejecutar el script:
 ![Imagen 04 - reto 04](assets/images/04.png)
